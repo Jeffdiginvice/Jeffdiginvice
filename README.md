@@ -1,8 +1,11 @@
 # Jefferson Castro
 ## Hello, Devs!!
 
-- 🔭 Atualmente estou trabalhando em ... 
+- 🔭 Atualmente estou trabalhando em projetos pessoais e trabalhos voluntários  
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, React, Node.js, Java, spring boot e dentre outras tecnologias. 
+- 💬 Pergunte-me sobre: tecnologia, música, programas de TV e livros.
+- 📫 Como entrar em contato comigo: jeffersondiginvice7@gmail.com
+- 🥅 Metas para 2023: Aprender o máximo que puder.
 - ⚡ Curiosidade: ...
 
 ## Estou aprendendo
