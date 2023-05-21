@@ -2,7 +2,7 @@
 ## Hello, Devs!!
 
   <img src="./kali-wallpaper-2015-v1.1.0.png" width="1000px" height="400px"><br>
-- 🔭 Atualmente estou trabalhando em projetos pessoais e trabalhos voluntários  
+- 🔭 Atualmente estou atuando em projetos pessoais e trabalhos voluntários  
 - 🌱 Atualmente estou aprendendo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, <strong>Java</strong>, <strong>spring boot</strong> e dentre outras tecnologias. 
 - 💬 Pergunte-me sobre: tecnologia, música, programas de TV e livros.
 - 📫 Como entrar em contato comigo: jeffersondiginvice7@gmail.com
