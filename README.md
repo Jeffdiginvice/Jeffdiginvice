@@ -7,7 +7,6 @@
 - 💬 Pergunte-me sobre: tecnologia, música, programas de TV e livros.
 - 📫 Como entrar em contato comigo: jeffersondiginvice7@gmail.com
 - 🥅 Metas para 2023: Aprender o máximo que puder.
-- ⚡ Curiosidade: ...
 
 ## Estou aprendendo
 
