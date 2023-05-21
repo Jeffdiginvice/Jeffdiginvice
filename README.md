@@ -1,7 +1,7 @@
 # Jefferson Castro
 ## Hello, Devs!!
 
-[<img src="./kali-wallpaper-2015-v1.1.0.png" width="1000px">]
+<img src="./kali-wallpaper-2015-v1.1.0.png" width="1000px">
 - 🔭 Atualmente estou trabalhando em projetos pessoais e trabalhos voluntários  
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, React, Node.js, Java, spring boot e dentre outras tecnologias. 
 - 💬 Pergunte-me sobre: tecnologia, música, programas de TV e livros.
