@@ -5,7 +5,7 @@
 <h2>Olá, sou Jefferson, um Desenvolvedor Full Stack dedicado e entusiasta tecnológico.</h2><br>
 Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com especialização em criar e implementar soluções web inovadoras. Tenho uma paixão por desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong>, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias.<br><br>
 
-Principais Tecnologias e Ferramentas:
+<h2><strong>Principais Tecnologias e Ferramentas:</strong></h2><br><br>
 Front-End:
 HTML5
 CSS3 (incluindo Flexbox e Grid)
