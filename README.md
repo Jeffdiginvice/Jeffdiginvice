@@ -2,7 +2,7 @@
 ## Hello, Devs!!
 
   <img src="./kali-wallpaper-2015-v1.1.0.png" width="1000px" height="400px"><br>
-- 🔭 Atualmente estou atuando em projetos pessoais e trabalhos voluntários  
+- 🔭 Sou um desenvolvedor 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 formado em 𝐀𝐧𝐚́𝐥𝐢𝐬𝐞 𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬, dedicado e entusiasta tecnológico. Tenho especialização em criar e implementar soluções web inovadoras, com um forte foco em desenvolvimento 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 e 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝. 
 - 🌱 Atualmente estou aprendendo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, <strong>Java</strong>, <strong>spring boot</strong> e dentre outras tecnologias. 
 - 💬 Pergunte-me sobre: tecnologia, música, programas de TV e livros.
 - 📫 Como entrar em contato comigo: jeffersonparcerias@gmail.com
