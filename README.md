@@ -1,7 +1,7 @@
 # Jefferson Castro
 ## Hello, Devs!!
 
-  <img src="./1633930651709.jpg" width="1000px" height="400px"><br>
+  <img src="./1633930651709.jpg" width="1000px" height="200px"><br>
 <h2>Olá, sou Jefferson, um Desenvolvedor Full Stack dedicado e entusiasta tecnológico.</h2><br>
 Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com especialização em criar e implementar soluções web inovadoras. Tenho uma paixão por desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong>, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias.<br><br>
 
