@@ -6,29 +6,29 @@
 Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com especialização em criar e implementar soluções web inovadoras. Tenho uma paixão por desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong>, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias.<br><br>
 
 <h2><strong>Principais Tecnologias e Ferramentas:</strong></h2><br>
-<strong>Front-End:</strong>
-<strong>HTML5</strong>
-<strong>CSS3</strong> (incluindo Flexbox e Grid)
-<strong>Bootstrap 5</strong>
-<strong>JavaScript ES6</strong> (incluindo DOM Manipulation e jQuery)
-<strong>React.js </strong> (incluindo React Hooks)<br><br>
-<strong>Back-End:</strong> 
-<strong>Node.js</strong>
-<strong>Express.js</strong>
-<strong>EJS</strong>
-<strong>RESTful APIs</strong>
-Banco de dados <strong>SQL</strong> (incluindo PostgreSQL)
-<strong>Firebase</strong> para autenticação
-Outras Tecnologias:
-Bash Command Line
-Git e GitHub para controle de versão
-Deployment com GitHub Pages
-Desenvolvimento Web3 na Internet Computer
-Blockchain technology
-Desenvolvimento de contratos de token
-Lógica de minting, compra e venda de NFTs
-Em Aprendizado:
-Atualmente, estou focado em expandir meu conhecimento em:
+<strong>Front-End:</strong><br>
+<strong>HTML5</strong><br>
+<strong>CSS3</strong> (incluindo Flexbox e Grid)<br>
+<strong>Bootstrap 5</strong><br>
+<strong>JavaScript ES6</strong> (incluindo DOM Manipulation e jQuery)<br>
+<strong>React.js </strong> (incluindo React Hooks)<br><br><br>
+<strong>Back-End:</strong> <br>
+<strong>Node.js</strong><br>
+<strong>Express.js</strong><br>
+<strong>EJS</strong><br>
+<strong>RESTful APIs</strong><br>
+Banco de dados <strong>SQL</strong> (incluindo PostgreSQL)<br>
+<strong>Firebase</strong> para autenticação<br>
+Outras Tecnologias:<br>
+Bash Command Line<br>
+Git e GitHub para controle de versão<br>
+Deployment com GitHub Pages<br>
+Desenvolvimento Web3 na Internet Computer<br>
+Blockchain technology<br>
+Desenvolvimento de contratos de token<br>
+Lógica de minting, compra e venda de NFTs<br>
+Em Aprendizado:<br>
+Atualmente, estou focado em expandir meu conhecimento em:<br>
 
 Java
 Spring Boot
