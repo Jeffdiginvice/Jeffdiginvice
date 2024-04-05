@@ -12,9 +12,11 @@ Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com espe
 <strong>Bootstrap 5</strong><br>
 <strong>JavaScript ES6</strong> (incluindo DOM Manipulation e jQuery)<br>
 <strong>React.js </strong> (incluindo React Hooks)<br>
+<strong>Next.js</strong><br>
 <strong>Redux</strong><br><br>
 <strong>Back-End:</strong> <br>
 <strong>Node.js</strong><br>
+<strong>Nest.js</strong><br>
 <strong>Express.js</strong><br>
 <strong>EJS</strong><br>
 <strong>RESTful APIs</strong><br>
