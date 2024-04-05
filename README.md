@@ -40,7 +40,7 @@ Atualmente, estou focado em expandir meu conhecimento em:<br><br>
 📫 Você pode entrar em contato comigo através do e-mail: jeffersonparcerias@gmail.com.
 Estou empolgado para colaborar em projetos desafiadores e contribuir para o desenvolvimento de soluções inovadoras. Vamos trabalhar juntos!
 
-## Estou aprendendo
+## 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
