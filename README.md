@@ -11,7 +11,8 @@ Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com espe
 <strong>CSS3</strong> (incluindo Flexbox e Grid)<br>
 <strong>Bootstrap 5</strong><br>
 <strong>JavaScript ES6</strong> (incluindo DOM Manipulation e jQuery)<br>
-<strong>React.js </strong> (incluindo React Hooks)<br><br><br>
+<strong>React.js </strong> (incluindo React Hooks)<br>
+<strong>Redux</strong><br><br>
 <strong>Back-End:</strong> <br>
 <strong>Node.js</strong><br>
 <strong>Express.js</strong><br>
