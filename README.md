@@ -2,10 +2,40 @@
 ## Hello, Devs!!
 
   <img src="./kali-wallpaper-2015-v1.1.0.png" width="1000px" height="400px"><br>
-- 🔭 Sou um desenvolvedor 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 formado em 𝐀𝐧𝐚́𝐥𝐢𝐬𝐞 𝐞 𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐢𝐦𝐞𝐧𝐭𝐨 𝐝𝐞 𝐒𝐢𝐬𝐭𝐞𝐦𝐚𝐬, dedicado e entusiasta tecnológico. Tenho especialização em criar e implementar soluções web inovadoras, com um forte foco em desenvolvimento 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 e 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝. 
-- 🌱 Atualmente estou aprendendo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, <strong>Java</strong>, <strong>spring boot</strong> e dentre outras tecnologias. 
-- 💬 Pergunte-me sobre: tecnologia, música, programas de TV e livros.
-- 📫 Como entrar em contato comigo: jeffersonparcerias@gmail.com
+- Olá, sou Jefferson, um Desenvolvedor Full Stack dedicado e entusiasta tecnológico.
+Sou formado em Análise e Desenvolvimento de Sistemas, com especialização em criar e implementar soluções web inovadoras. Tenho uma paixão por desenvolvimento Front-End e Back-End, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias.
+
+Principais Tecnologias e Ferramentas:
+Front-End:
+HTML5
+CSS3 (incluindo Flexbox e Grid)
+Bootstrap 5
+JavaScript ES6 (incluindo DOM Manipulation e jQuery)
+React.js (incluindo React Hooks)
+Back-End:
+Node.js
+Express.js
+EJS
+RESTful APIs
+Banco de dados SQL (incluindo PostgreSQL)
+Firebase para autenticação
+Outras Tecnologias:
+Bash Command Line
+Git e GitHub para controle de versão
+Deployment com GitHub Pages
+Desenvolvimento Web3 na Internet Computer
+Blockchain technology
+Desenvolvimento de contratos de token
+Lógica de minting, compra e venda de NFTs
+Em Aprendizado:
+Atualmente, estou focado em expandir meu conhecimento em:
+
+Java
+Spring Boot
+Sobre Mim:
+💬 Estou sempre disposto a discutir sobre tecnologia, música, programas de TV e livros.
+📫 Você pode entrar em contato comigo através do e-mail: jeffersonparcerias@gmail.com.
+Estou empolgado para colaborar em projetos desafiadores e contribuir para o desenvolvimento de soluções inovadoras. Vamos trabalhar juntos!
 
 ## Estou aprendendo
 
