@@ -19,9 +19,9 @@ Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com espe
 <strong>RESTful APIs</strong><br>
 Banco de dados <strong>SQL</strong> (incluindo PostgreSQL)<br>
 <strong>Firebase</strong> para autenticação<br>
-Outras Tecnologias:<br>
-Bash Command Line<br>
-Git e GitHub para controle de versão<br>
+<br>Outras Tecnologias:<br>
+<strong>Bash Command Line</strong><br>
+<strong>Git</strong> e <strong>GitHub</strong> para controle de versão<br>
 Deployment com GitHub Pages<br>
 Desenvolvimento Web3 na Internet Computer<br>
 Blockchain technology<br>
@@ -32,7 +32,7 @@ Atualmente, estou focado em expandir meu conhecimento em:<br>
 
 Java
 Spring Boot
-Sobre Mim:
+<h2>Sobre Mim:</h2>
 💬 Estou sempre disposto a discutir sobre tecnologia, música, programas de TV e livros.
 📫 Você pode entrar em contato comigo através do e-mail: jeffersonparcerias@gmail.com.
 Estou empolgado para colaborar em projetos desafiadores e contribuir para o desenvolvimento de soluções inovadoras. Vamos trabalhar juntos!
