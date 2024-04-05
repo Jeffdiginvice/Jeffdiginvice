@@ -5,20 +5,20 @@
 <h2>Olá, sou Jefferson, um Desenvolvedor Full Stack dedicado e entusiasta tecnológico.</h2><br>
 Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com especialização em criar e implementar soluções web inovadoras. Tenho uma paixão por desenvolvimento <strong>Front-End</strong> e <strong>Back-End</strong>, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias.<br><br>
 
-<h2><strong>Principais Tecnologias e Ferramentas:</strong></h2><br><br>
-Front-End:
-HTML5
-CSS3 (incluindo Flexbox e Grid)
-Bootstrap 5
-JavaScript ES6 (incluindo DOM Manipulation e jQuery)
-React.js (incluindo React Hooks)
-Back-End:
-Node.js
-Express.js
-EJS
-RESTful APIs
-Banco de dados SQL (incluindo PostgreSQL)
-Firebase para autenticação
+<h2><strong>Principais Tecnologias e Ferramentas:</strong></h2><br>
+<strong>Front-End:</strong>
+<strong>HTML5</strong>
+<strong>CSS3</strong> (incluindo Flexbox e Grid)
+<strong>Bootstrap 5</strong>
+<strong>JavaScript ES6</strong> (incluindo DOM Manipulation e jQuery)
+<strong>React.js </strong> (incluindo React Hooks)<br><br>
+<strong>Back-End:</strong> 
+<strong>Node.js</strong>
+<strong>Express.js</strong>
+<strong>EJS</strong>
+<strong>RESTful APIs</strong>
+Banco de dados <strong>SQL</strong> (incluindo PostgreSQL)
+<strong>Firebase</strong> para autenticação
 Outras Tecnologias:
 Bash Command Line
 Git e GitHub para controle de versão
