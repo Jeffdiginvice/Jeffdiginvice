@@ -2,8 +2,8 @@
 ## Hello, Devs!!
 
   <img src="./kali-wallpaper-2015-v1.1.0.png" width="1000px" height="400px"><br>
-- Olá, sou Jefferson, um Desenvolvedor Full Stack dedicado e entusiasta tecnológico.
-Sou formado em Análise e Desenvolvimento de Sistemas, com especialização em criar e implementar soluções web inovadoras. Tenho uma paixão por desenvolvimento Front-End e Back-End, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias.
+- <h2>Olá, sou Jefferson, um Desenvolvedor Full Stack dedicado e entusiasta tecnológico.</h2>h2><br>
+Sou formado em Análise e Desenvolvimento de Sistemas, com especialização em criar e implementar soluções web inovadoras. Tenho uma paixão por desenvolvimento Front-End e Back-End, e estou constantemente buscando aprimorar minhas habilidades e aprender novas tecnologias.<br>
 
 Principais Tecnologias e Ferramentas:
 Front-End:
