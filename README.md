@@ -29,12 +29,12 @@ Deployment com GitHub Pages<br>
 Desenvolvimento Web3 na Internet Computer<br>
 Blockchain technology<br>
 Desenvolvimento de contratos de token<br>
-Lógica de minting, compra e venda de NFTs<br>
-Em Aprendizado:<br>
+Lógica de minting, compra e venda de NFTs<br><br>
+<strong>Em Aprendizado:</strong><br>
 Atualmente, estou focado em expandir meu conhecimento em:<br>
 
-Java
-Spring Boot
+<strong>Java</strong><br>
+<strong>Spring Boot</strong><br><br>
 <h2>Sobre Mim:</h2>
 💬 Estou sempre disposto a discutir sobre tecnologia, música, programas de TV e livros.
 📫 Você pode entrar em contato comigo através do e-mail: jeffersonparcerias@gmail.com.
