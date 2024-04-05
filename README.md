@@ -30,8 +30,8 @@ Desenvolvimento Web3 na Internet Computer<br>
 Blockchain technology<br>
 Desenvolvimento de contratos de token<br>
 Lógica de minting, compra e venda de NFTs<br><br>
-<strong>Em Aprendizado:</strong><br><br>
-Atualmente, estou focado em expandir meu conhecimento em:<br>
+<strong>Em Aprendizado:</strong><br>
+Atualmente, estou focado em expandir meu conhecimento em:<br><br>
 
 <strong>Java</strong><br>
 <strong>Spring Boot</strong><br><br>
