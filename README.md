@@ -37,7 +37,7 @@ Atualmente, estou focado em expandir meu conhecimento em:<br><br>
 <strong>Spring Boot</strong><br><br>
 <h2>Sobre Mim:</h2>
 💬 Estou sempre disposto a discutir sobre tecnologia, música, programas de TV e livros.
-📫 Você pode entrar em contato comigo através do e-mail: jeffersonparcerias@gmail.com.
+📫 Você pode entrar em contato comigo através do e-mail: <strong>jeffersonparcerias@gmail.com.</strong>
 Estou empolgado para colaborar em projetos desafiadores e contribuir para o desenvolvimento de soluções inovadoras. Vamos trabalhar juntos!
 
 ## 
